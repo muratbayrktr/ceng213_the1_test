@@ -5,7 +5,8 @@ ms = "musicstream_testcase_"
 
 os.system("make clean")
 if os.path.isdir("../given_outputs"):
-    os.system("rm -rf given_outputs")
+    os.system("rm -rf ../given_outputs")
+os.system("mkdir ../given_outputs")
 
 
 
