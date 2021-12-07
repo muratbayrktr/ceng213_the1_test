@@ -1,4 +1,4 @@
-## ceng213 the1 test
+## ceng213 the1 testcase inspector
 
 You can use these scripts to see your mistakes and compare your results to the expected outputs.
 
